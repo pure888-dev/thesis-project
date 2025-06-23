@@ -27,7 +27,7 @@ Project in BC 2568
 องค์ประกอบของระบบ
 Hardware Components
 
-ไมโครคอนโทรลเลอร์: ESP32 หรือ Raspberry Pi 4
+ไมโครคอนโทรลเลอร์: ESP8266 หรือ Raspberry Pi 4
 เซ็นเซอร์น้ำหนัก: Load Cell พร้อม HX711 Amplifier
 เซ็นเซอร์ตรวจจับการเคลื่อนไหว: PIR Motion Sensor
 กล้องถ่ายรูป: ESP32-CAM หรือ Raspberry Pi Camera Module
