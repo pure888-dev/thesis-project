@@ -266,10 +266,12 @@
 ## วรรณกรรมที่เกี่ยวข้อง
 
 ### งานวิจัยและบทความ
-1. **"Smart Package Delivery Systems using IoT"** - IEEE Conference 2023
-2. **"Multi-Sensor Fusion for Package Detection"** - Journal of IoT Applications 2024
-3. **"Cost-Effective IoT Solutions for Smart Homes"** - International Journal of Electronics 2023
-4. **"Telegram Bot API for Home Automation"** - IEEE IoT Journal 2024
+พุฒิพงศ์ เกิดพิพัฒน์, อดิศร ศิริคำ, เจษฎา ก้อนแพง, ณัฐพงษ์ อินทรวิเศษ, และขอบคุณ ไชยวงศ์. (2566). กล่องจดหมายแบบไร้กุญแจบนพื้นฐานของอินเทอร์เน็ตสำหรับทุกสรรพสิ่ง. (ออนไลน์). แหล่งที่มา: https://ph02.tci-thaijo.org/index.php/RJST/article/view/249353/169320 [สืบค้น 30 มิถุนายน 2568].
+วิสุตร์ เพชรรัตน์, เตชิตา สุทธิรักษ์, ธีรวัฒน์ พูลผล, กุลวดี จันทร์วิเชียร, พัทธนันท์ อธิตัง, และวราพร กาญจนคลอด. (2566). การพัฒนาระบบสารสนเทศเพื่อการจัดการวัสดุครุภัณฑ์ผ่าน QR Code และ Line Notify ด้วย MVC Framework. (ออนไลน์). แหล่งที่มา: https://ph01.tcithaijo.org/index.php/jait/article/download/253509/171837/949440 [สืบค้น 30 มิถุนายน 2568].
+สิทธิโชค อุ่นแก้ว และนัสรี ม่องพร้า. (2568). การออกแบบและพัฒนาระบบตู้จดหมายอัจฉริยะพลังงานทางเลือกบนฐานอินเทอร์เน็ตของสรรพสิ่ง. (ออนไลน์). แหล่งที่มา: https://ph03.tci-thaijo.org/index.php/JEIT/article/view/3848/2918 [สืบค้น 30 มิถุนายน 2568].
+Mudiana Mokhsin, Amer Shakir Zainol, Mohd Zain Md Ludin, Mohd Husni Mohd Som, Ahmad Iqbal Hakim Suhaimi, และ Hamizan Abdul Halim. (2021). ParcelRestBox: IoT-Based Parcel Receiving Box System Design for Smart City in Malaysia. (ออนไลน์). แหล่งที่มา: https://ieeexplore.ieee.org/abstract/document/9673588 [สืบค้น 30 มิถุนายน 2568].
+Lee, J. H. (2022). A Prototype of Smart Parcel Box. (ออนไลน์). แหล่งที่มา: http://eprints.utar.edu.my/4620/1/fyp_-_CN_-_LJH_-_1802515.pdf [สืบค้น 30 มิถุนายน 2568].
+
 
 ### เทคโนโลยีและมาตรฐาน
 1. **ESP8266 Documentation** - Espressif Systems Official Guide
@@ -278,10 +280,12 @@
 4. **IoT Security Best Practices** - NIST Cybersecurity Framework
 
 ### โครงงานที่เกี่ยวข้อง
-1. **Smart Doorbell Systems with Face Recognition**
-2. **Automated Package Delivery Robots**
-3. **IoT-based Home Security Systems**
-4. **Cost-Effective Smart Locker Systems**
+พุฒิพงศ์ เกิดพิพัฒน์, อดิศร ศิริคำ, เจษฎา ก้อนแพง, ณัฐพงษ์ อินทรวิเศษ, และขอบคุณ ไชยวงศ์. (2566). กล่องจดหมายแบบไร้กุญแจบนพื้นฐานของอินเทอร์เน็ตสำหรับทุกสรรพสิ่ง. (ออนไลน์). แหล่งที่มา: https://ph02.tci-thaijo.org/index.php/RJST/article/view/249353/169320 [สืบค้น 30 มิถุนายน 2568].
+วิสุตร์ เพชรรัตน์, เตชิตา สุทธิรักษ์, ธีรวัฒน์ พูลผล, กุลวดี จันทร์วิเชียร, พัทธนันท์ อธิตัง, และวราพร กาญจนคลอด. (2566). การพัฒนาระบบสารสนเทศเพื่อการจัดการวัสดุครุภัณฑ์ผ่าน QR Code และ Line Notify ด้วย MVC Framework. (ออนไลน์). แหล่งที่มา: https://ph01.tcithaijo.org/index.php/jait/article/download/253509/171837/949440 [สืบค้น 30 มิถุนายน 2568].
+สิทธิโชค อุ่นแก้ว และนัสรี ม่องพร้า. (2568). การออกแบบและพัฒนาระบบตู้จดหมายอัจฉริยะพลังงานทางเลือกบนฐานอินเทอร์เน็ตของสรรพสิ่ง. (ออนไลน์). แหล่งที่มา: https://ph03.tci-thaijo.org/index.php/JEIT/article/view/3848/2918 [สืบค้น 30 มิถุนายน 2568].
+Mudiana Mokhsin, Amer Shakir Zainol, Mohd Zain Md Ludin, Mohd Husni Mohd Som, Ahmad Iqbal Hakim Suhaimi, และ Hamizan Abdul Halim. (2021). ParcelRestBox: IoT-Based Parcel Receiving Box System Design for Smart City in Malaysia. (ออนไลน์). แหล่งที่มา: https://ieeexplore.ieee.org/abstract/document/9673588 [สืบค้น 30 มิถุนายน 2568].
+Lee, J. H. (2022). A Prototype of Smart Parcel Box. (ออนไลน์). แหล่งที่มา: http://eprints.utar.edu.my/4620/1/fyp_-_CN_-_LJH_-_1802515.pdf [สืบค้น 30 มิถุนายน 2568].
+
 
 ---
 
